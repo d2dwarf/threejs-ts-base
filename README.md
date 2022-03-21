@@ -1,2 +1,13 @@
 # threejs-ts-base
-This is the Threejs Sample.
+Title: THREEJS-TS-BASE
+
+threejs + typescriptを学習する上での基本セットアップファイル。
+モジュールバンドラとしてwebpack5を使用しています。
+
+## 推奨Nodeバーション
+- v16.13.2以上
+
+## instaliation
+```
+$ yarn install
+```
