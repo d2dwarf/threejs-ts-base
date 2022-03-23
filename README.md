@@ -14,3 +14,4 @@ $ yarn install
 
 ## メモ
 - git
+- さらに追加
