@@ -11,3 +11,6 @@ threejs + typescriptを学習する上での基本セットアップファイル
 ```
 $ yarn install
 ```
+
+## メモ
+- git
