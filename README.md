@@ -15,3 +15,10 @@ $ yarn install
 ## メモ
 - git
 - さらに追加
+
+
+関連付
+git remote add origin url名
+
+push
+git push origin master
